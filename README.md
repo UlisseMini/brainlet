@@ -1,5 +1,4 @@
-## mafs
+## brainlet
 
-random program i wrote in half an hour to quiz myself on mafs
+some python scripts for simple brain training, such as mental math and memory training.
 
-right now only does multiplication 3-9 but later i'll do primes etc
